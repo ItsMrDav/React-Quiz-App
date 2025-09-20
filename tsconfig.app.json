@@ -17,6 +17,8 @@
 
     /* Linting */
     "strict": true,
+    /* I am turning off type declaration explicitly */
+    "noImplicitAny": false,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "erasableSyntaxOnly": true,
